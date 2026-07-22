@@ -1,9 +1,9 @@
-<img src="https://github.com/opa334/Dopamine/assets/52459150/ed04dd3e-d879-456d-9aa3-d4ed44819c7e" width="64" />
+# Dopamine (Unofficial tvOS Port)
 
-# Dopamine
+> When installing select only "Sileo" as your package manager.
 
-A rootless semi-untethered jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.7.15 (arm64). More details will follow here soon.
+Bundled with PurePKG for Apple TV.
 
-Please note that all issues related to version support will be deleted without response.
+Only tested with DarkSword kexploit for 1st gen Apple TV 4K (A10X).
 
-Official website / download: https://ellekit.space/dopamine/
+You can find the original Dopamine by opa334 [here](https://github.com/opa334/dopamine).
